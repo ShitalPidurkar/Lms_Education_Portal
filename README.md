@@ -2,17 +2,17 @@
 This is a web-based learning management system built with Python Django. It allows teachers to create courses, add course materials, and manage students. Students can sign up for courses, view course materials, and submit assignments.
 
 Requirements
-Python (version 3.6 or higher)
-Django (version 3.1 or higher)
-MySQL database
+- Python (version 3.6 or higher)
+- Django (version 3.1 or higher)
+- MySQL database
 
 Installation
-Clone the repository: git clone https://github.com/your-username/lms.git
-Install the required packages: pip install -r requirements.txt
-Create a MySQL database and update the DATABASES setting in settings.py accordingly.
-Run database migrations: python manage.py migrate
-Create a superuser: python manage.py createsuperuser
-Start the development server: python manage.py runserver
+- Clone the repository: git clone https://github.com/your-username/lms.git
+- Install the required packages: pip install -r requirements.txt
+- Create a MySQL database and update the DATABASES setting in settings.py accordingly.
+- Run database migrations: python manage.py migrate
+- Create a superuser: python manage.py createsuperuser
+- Start the development server: python manage.py runserver
 
 Usage
 Admin
