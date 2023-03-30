@@ -7,7 +7,7 @@ Requirements
 - MySQL database
 
 Installation
-- Clone the repository: git clone https://github.com/your-username/lms.git
+- Clone the repository: git clone https://github.com/ShitalPidurkar/Lms_Education_Portal.git
 - Install the required packages: pip install -r requirements.txt
 - Create a MySQL database and update the DATABASES setting in settings.py accordingly.
 - Run database migrations: python manage.py migrate
