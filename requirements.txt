@@ -1,0 +1,10 @@
+django==3.0.0
+django-bootstrap-modal-forms
+django-bootstrap3
+django-crispy-forms
+django-embed-video
+django-forms-bootstrap
+django-widget-tweaks
+razorpay
+pillow
+mysql-connector-python
